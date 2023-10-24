@@ -7,5 +7,8 @@
     "cy:run:cloud": "cypress run --record"
   },
   "author": "not me",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.3.3"
+  }
 }
