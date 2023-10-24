@@ -1,0 +1,11 @@
+{
+  "name": "cypress-cloud-filter",
+  "version": "1.0.0",
+  "description": "for debugging something hopefully simple in the interaction between cypress cloud and cypress-log-filter",
+  "main": "index.js",
+  "scripts": {
+    "cy:run:cloud": "cypress run --record"
+  },
+  "author": "not me",
+  "license": "ISC"
+}
